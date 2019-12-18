@@ -22,7 +22,7 @@
     <version>2.1.1-SNAPSHOT</version>
 
     <properties>
-        <seed.version>3.9.0</seed.version>
+        <seed.version>3.9.1</seed.version>
         <compatibility.skip>true</compatibility.skip>
         <bintray.package>swagger-addon</bintray.package>
         <swagger-jersey.version>1.5.22</swagger-jersey.version>
