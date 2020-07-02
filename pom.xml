@@ -25,7 +25,7 @@
         <seed.version>3.9.0</seed.version>
         <compatibility.skip>true</compatibility.skip>
         <bintray.package>swagger-addon</bintray.package>
-        <swagger-jersey.version>1.5.22</swagger-jersey.version>
+        <swagger-jersey.version>1.6.2</swagger-jersey.version>
     </properties>
 
     <build>
